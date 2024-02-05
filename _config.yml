@@ -1,12 +1,12 @@
 ## Site Meta ##
 # The title of the website.
-title: "A-Mapoteca
+title: "A-Mapoteca"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "The mapping gallery from Alfobre.com"
 # Keywords/tags for you site.
-keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
+keywords: "alfobre, alfobre.com, map, maps, mapping, gis, cartography, qgis"
 # Your copyright message.
-copyright: "Copyright &copy; 2017 - Elastic Designs."
+copyright: "2024 | [Alfobre.com](https://alfobre.com)"
 
 ## Site Configurations ##
 # 1st heading of the site.
