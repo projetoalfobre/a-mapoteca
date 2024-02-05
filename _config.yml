@@ -10,11 +10,11 @@ copyright: "2024 | [Alfobre.com](https://alfobre.com)"
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "A-Mapoteca"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: ""
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "The mapping gallery from Alfobre.com"
 social:
   # Your Twitter username.
   twitter_username: ""
@@ -23,9 +23,9 @@ social:
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: "projetoalfobre"
   # Your email address.
-  email: ""
+  email: "projeto.alfobre@gmail.com"
 
 ## Gallery Configuration ##
 # If you modify this, also modify the `default.scope.path` key below.
