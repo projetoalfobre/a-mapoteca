@@ -1,0 +1,11 @@
+*, html {scroll-behavior: smooth !important;}
+
+.about-header{text-align: left !important;}
+
+.page-footer{border-bottom: 0px solid #d9d9d9;border-top: 1px solid #d9d9d9;}
+
+ul.tags {list-style-type: none; overflow: hidden;  margin-bottom: 3em !important; display: inline-block;}
+
+ul.tags li {float: left; margin-right: 2em;}
+
+ul.tags  li a {color: #87314e !important; text-decoration: none; text-transform: uppercase;}

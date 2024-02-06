@@ -1,0 +1,47 @@
+title: A-Mapoteca
+email: projeto.alfobre@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A-Mapoteca is a collection of maps created by Alfobre.com
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Alfobre.com # add your name
+author-pic: adam-face.jpg
+about-author: 11My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+
+# Contact links
+email: projeto.alfobre@gmail.com
+phone: 
+website: alfobre.com
+linkedin: # Add your Linkedin handle
+github: projetoalfobre # Add your Github handle
+twitter: # Add your Twitter handle
+facebook: projeto.alfobre
+instagram: projeto.alfobre
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 8
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
