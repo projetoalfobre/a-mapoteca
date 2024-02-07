@@ -8,4 +8,16 @@ ul.tags {list-style-type: none; overflow: hidden;  margin-bottom: 3em !important
 
 ul.tags li {float: left; margin-right: 2em;}
 
-ul.tags  li a {color: #87314e !important; text-decoration: none; text-transform: uppercase;}
+ul.tags  li a {color: #0d6efd !important; text-decoration: none; text-transform: uppercase;}
+
+.main-footer .copyright {text-align: center; font-size: 0.8em; color: rgba(0,0,0,.5) !important;}
+
+a {color: #0d6efd;text-decoration: none;}
+
+a:hover{text-decoration: underline; color: #0a58ca;}
+
+.page-footer .page-tag a {text-decoration: none; color: #0d6efd;}
+
+.blog-tags .tag-list span a {color: #0d6efd;}
+
+.main-nav ul li a:hover {color: #0a58ca !important;}
