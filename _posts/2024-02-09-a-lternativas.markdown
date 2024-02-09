@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Webmap - A-lternativas
+title: A-lternativas (webmap)
 date: 2024-02-09 13:32:20 +0300
 description: This is a map about other ways of life. # Add post description (optional)
 img: alternatives.jpg # Add image post (optional)
-tags: [Economy, Environment, Political, Portugal, Culture, Arts]
+tags: [Webmap, Economy, Environment, Political, Portugal, Culture, Arts]
 author: Nelson Gonçalves (Alfobre.com) 
 ---
 

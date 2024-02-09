@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Webmap - portuguese potters and potteries
+title: Portuguese potters and potteries (webmap)
 date: 2024-02-09 13:32:20 +0300
 description: This is a map about ceramics pottery makers. # Add post description (optional)
 img: pottery.jpg # Add image post (optional)
-tags: [Pottery, Ceramics, Portugal, Culture, Arts]
+tags: [Webmap, Pottery, Ceramics, Portugal, Culture, Arts]
 author: Nelson Gonçalves
 ---
 This is a map about portuguese potters and potteries.
