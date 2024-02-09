@@ -1,16 +1,14 @@
 <footer class="main-footer">
   <div class="copyright wrapper">
 
-    <div style="width: 50%; float: left; text-align: left;">
+    <div class="footer-text">
     <a href="https://alfobre.com" target="_blank"><img src="{{ site.baseurl }}/assets/img/logo_alfobre.png" style="height:2em; auto;"></a>
-    <br /><br />
-    <p>A-GeoCat is a geospatial open data catalog developed and maintained by <a href="https://alfobre.com" class="" target="_blank">Alfobre</a>.</p>
-    <p>Alfobre (portuguese for seedbed) is a collective devoted to the creation and development of projects, strategies and products in the Heritage field.</p>
-    <p>{{site.time | date: '%Y'}} | <a href="http://alfobre.com" target="_blank">{{site.author}}</a></p>
-
+    <br />
+    <p>A-GeoCat is a geospatial open data catalog developed and maintained by <a href="https://alfobre.com" class="" target="_blank">Alfobre</a>.<br />
+    Alfobre (portuguese for seedbed) is a collective devoted to the creation and development of projects, strategies and products in the Heritage field.</p>
     </div>
 
-    <div class="about-body" style="width: 50%; float: left; text-align: right;">
+    <div class="about-body footer-links" >
       <ul class="contact-list" style="text-align: right;">
         {% if site.pinterest %}
         <li class="pinterest"><a href="https://pinterest.com/{{site.pinterest}}" target="_blank"><i class="fa fa-pinterest"></i></a></li>
@@ -69,6 +67,10 @@
       <li class="pinterest"><a title="Feed.xml" href="/feed.xml" class=""><i class="fa fa-rss" aria-hidden="true" title="Feed.xml"></i></a></li>
     </ul>
   </div>    
+
+  <div class="footer-year">
+  {{site.time | date: '%Y'}} | <a href="http://alfobre.com" target="_blank">{{site.author}}</a>
+</div>    
 
   </div>
 </footer> <!-- End Footer -->
