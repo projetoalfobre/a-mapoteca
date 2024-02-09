@@ -1,6 +1,7 @@
 ---
 layout: post
-title: A-lternativas (webmap)
+title: Other ways of living (webmap)
+map-title: Alternativas - outros caminhos
 date: 2024-02-09 13:32:20 +0300
 description: This is a map about other ways of life. # Add post description (optional)
 img: alternatives.jpg # Add image post (optional)

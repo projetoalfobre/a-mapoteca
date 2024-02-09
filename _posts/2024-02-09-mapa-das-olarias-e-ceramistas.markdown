@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Portuguese potters and potteries (webmap)
+map-title: Ceramistas e Oleiros de Portugal
 date: 2024-02-09 13:32:20 +0300
 description: This is a map about ceramics pottery makers. # Add post description (optional)
 img: pottery.jpg # Add image post (optional)
