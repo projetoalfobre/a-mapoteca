@@ -12,7 +12,7 @@ author: Nelson Gonçalves
 This is an online map about portuguese potters and potteries. It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated according to the plan below and when we have the time.
 
 - [x] Collect the artists list provided by the [Portuguese Association of Cities and Villages of Ceramics](https://ceramicadeportugal.pt/)
-- [ ] v1.0 Georeference the addresses of the shops/artists from the above list 
+- [ ] v1.0 Georeference the addresses of the shops/artists from the above list (ongoing)
 - [ ] Add new artists/shops
 
 When we reach the v1.0, dataset will be shared at [A-GeoCat](https://a-geocat.alfobre.com/)
