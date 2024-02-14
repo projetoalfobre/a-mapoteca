@@ -5,7 +5,7 @@ map-title: Mapa das Cooperativas Portuguesas
 date: 2024-02-09 13:32:20 +0300
 description: This is a map about portuguese Cooperatives. # Add post description (optional)
 img: cooperatives.jpg # Add image post (optional)
-tags: [Webmap, Economy, Environment, Political, Portugal, Culture, Arts]
+tags: [Webmap, WIP, Economy, Environment, Political, Portugal, Culture, Arts]
 author: Nelson Gonçalves (Alfobre.com) 
 ---
 This is an ongoing online map of portuguese cooperatives. Cooperatives are businesses owned by “member-owners”. They are democratically controlled by their member-owners, and unlike a traditional business each member gets a voice in how the business is run. 
