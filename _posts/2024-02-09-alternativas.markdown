@@ -13,7 +13,7 @@ This is a webmap about other ways of living. We map projects, businesses, collec
 
 It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated according to the plan below and when we have the time.
 - [ ] Collect 20 portuguese examples (ongoing)
-- [ ] Collect 20 non-portuguese examples (ongoing)
+- [ ] Collect 20 non-portuguese examples
 - [ ] v1.0 Organize data by layers and categories  
 - [ ] Add new examples
 
