@@ -8,12 +8,17 @@ img: pottery.jpg # Add image post (optional)
 tags: [Webmap, Pottery, Ceramics, Portugal, Culture, Arts]
 author: Nelson Gonçalves
 ---
-This is a map about portuguese potters and potteries.
 
-[link to online map](https://umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961#7/40.019/-6.976)
+This is an online map about portuguese potters and potteries. It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated according to the plan below and when we have the time.
+
+- [x] Collect the artists list provided by the [Portuguese Association of Cities and Villages of Ceramics](https://ceramicadeportugal.pt/)
+- [ ] Georeference the addresses of the shops/artists from the above list 
+- [ ] Add new artists/shops
+
+Meanwhile, you can visit the mapa [here](https://umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961#7/40.019/-6.976) or check the embedded below.
 
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
 
 
 
