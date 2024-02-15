@@ -22,11 +22,9 @@ a:hover{text-decoration: underline; color: #0a58ca;}
 
 .main-nav ul li a:hover {color: #0a58ca !important;}
 
-.about-body .contact-list li a:hover
-{
-  color: #0a58ca;
-}
-
+.about-body .contact-list li a:hover {color: #0a58ca;}
+.task-list {list-style: none;}
+.task-list-item-checkbox{margin-right: 0.5em;}
 
 .footer-text {width: 50%; float: left; text-align: left;}
 .footer-links{width: 50%; float: left; text-align: right;}
