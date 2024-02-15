@@ -11,7 +11,8 @@ author: Nelson Gonçalves (Alfobre.com)
 
 This is a webmap about other ways of living. We map projects, businesses, collectives and cooperatives that show that it's possible to innovate, to disrupt, to creat evalue, to make a living, without being profit-driven. 
 
-It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated according to the plan below and when we have the time.
+It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated according to the plan below and as frequently as possible.
+
 - [ ] Collect 20 portuguese examples (ongoing)
 - [ ] Collect 20 non-portuguese examples
 - [ ] v1.0 Organize data by layers and categories  
