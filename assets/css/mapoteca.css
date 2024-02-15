@@ -22,6 +22,11 @@ a:hover{text-decoration: underline; color: #0a58ca;}
 
 .main-nav ul li a:hover {color: #0a58ca !important;}
 
+.about-body .contact-list li a:hover
+{
+  color: #0a58ca;
+}
+
 
 .footer-text {width: 50%; float: left; text-align: left;}
 .footer-links{width: 50%; float: left; text-align: right;}
@@ -30,6 +35,4 @@ a:hover{text-decoration: underline; color: #0a58ca;}
 @media only screen and (max-width: 768px) {
     .footer-text {width: 100%; float: left; text-align: left;}
     .footer-links{width: 100%; float: left; text-align: left;}
-
-
 }
