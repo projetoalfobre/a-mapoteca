@@ -23,7 +23,6 @@ Meanwhile, you can visit the map [here](https://umap.openstreetmap.fr/en/map/map
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/mapa-das-cooperativas-portuguesas_1021529?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
 
-
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/mapa-das-cooperativas-portuguesas_1021529?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=false&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true&fullscreenControl=false&measureControl=false&locateControl=true&editinosmControl=false&starControl=false"></iframe>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/mapa-das-cooperativas-portuguesas_1021529?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true&measureControl=false&fullscreenControl=null&editinosmControl=false"></iframe>
 
 {% include cc-by.html %}
