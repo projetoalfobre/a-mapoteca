@@ -23,7 +23,6 @@ When we reach the v1.0, dataset will be shared at [A-GeoCat](https://a-geocat.al
 Meanwhile, you can visit the map [here](https://umap.openstreetmap.fr/en/map/alternativas-outros-caminhos_1021352#7/39.623/-6.614) or check the embedded below.
 
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/alternativas-outros-caminhos_1021352?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe>
-
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/alternativas-outros-caminhos_1021352?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=false&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true&measureControl=false&fullscreenControl=null&editinosmControl=false"></iframe>
 
 {% include cc-by.html %}
