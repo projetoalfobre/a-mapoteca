@@ -1,5 +1,16 @@
 <head>
-	{% include analytics.html %}
+	<script src="{{site.baseurl}}/assets/js/glowCookies.js"></script>
+
+	<script>
+		glowCookies.start('en', {
+			style: 3,
+			analytics: 'G-Q7MRY73PFP',
+			policyLink: '/privacy/',
+			hideAfterClick: 'true',
+			acceptBtnBackground: '#4caae1',
+			bannerDescription: 'A-Mapoteca website uses cookies to help us analyze web traffic. This happens only if you click on the "Accept cookies" button.</br>'
+		});
+	</script>
 
 	<meta charset="utf-8">
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
@@ -25,5 +36,6 @@
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/assets/css/mapoteca.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "/assets/css/glowCookies.css" | prepend: site.baseurl }}">
 
 </head>
