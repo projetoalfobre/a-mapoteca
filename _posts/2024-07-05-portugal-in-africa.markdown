@@ -15,7 +15,6 @@ PDF featuring Portugal map overlayed over several different African countries fo
 - A4 PDF [If Portugal was in Africa](https://projetoalfobre.github.io/alfobre-gis-repository/Portugal/portugal-no-mundo/pt_africa.pdf)
 - Source file available [here](https://projetoalfobre.github.io/alfobre-gis-repository/Portugal/portugal-no-mundo/pt_africa-asia.svg).
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=false&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true&measureControl=false&fullscreenControl=null&editinosmControl=false"></iframe>
 
 
 {% include cc-by.html %}

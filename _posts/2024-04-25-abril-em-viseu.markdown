@@ -14,8 +14,4 @@ This is an online map about anti-fascist events and people from Viseu, Portugal.
 
 Meanwhile, you can visit the map [here](https://umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961#7/40.019/-6.976) or check the embedded below.
 
-
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=false&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true&measureControl=false&fullscreenControl=null&editinosmControl=false"></iframe>
-
-
 {% include cc-by.html %}
