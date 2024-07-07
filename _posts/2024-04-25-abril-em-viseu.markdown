@@ -12,6 +12,6 @@ published: true
 
 This is an online map about anti-fascist events and people from Viseu, Portugal. It's a work in progress and a collective project, meaning that more than one person is currently working on it.  It will be updated as frequently as possible.
 
-Meanwhile, you can visit the map [here](https://umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961#7/40.019/-6.976) or check the embedded below.
+Meanwhile, you can visit the map [here](https://abrilemviseu.pt/).
 
 {% include cc-by.html %}
