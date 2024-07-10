@@ -5,7 +5,7 @@ map-title: Mapa da Arqueologia em Portugal
 date: 2024-07-09 13:32:20 +0300
 description: This is an online map featuring portuguese archaeology organizations. # Add post description (optional)
 img: archaeology.jpg # Add image post (optional)
-tags: [Webmap, WIP, Economy, Environment, Political, Portugal, Culture, Arts]
+tags: [Webmap, WIP, Archaeology, Portugal, Culture]
 author: Nelson Gonçalves (Alfobre.com) 
 ---
 
