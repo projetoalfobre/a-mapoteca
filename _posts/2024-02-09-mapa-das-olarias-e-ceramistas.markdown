@@ -9,13 +9,9 @@ tags: [Webmap, WIP, Pottery, Ceramics, Portugal, Culture, Arts]
 author: Nelson Gonçalves
 ---
 
-This is an online map featuring portuguese potters and potteries. It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated according to the plan below and as frequently as possible.
+This is an online map featuring portuguese potters and potteries. It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated as frequently as possible and the dataset will be shared at [A-GeoCat](https://a-geocat.alfobre.com/)
 
-- [x] Collect the artists list provided by the [Portuguese Association of Cities and Villages of Ceramics](https://ceramicadeportugal.pt/)
-- [ ] v1.0 Georeference the addresses of the shops/artists from the above list (ongoing)
-- [ ] Add new artists/shops
-
-When we reach the v1.0, dataset will be shared at [A-GeoCat](https://a-geocat.alfobre.com/)
+For any questions and/or comments, please use projeto.alfobre@gmail.com
 
 The map content is available in portuguese only and you can check it [here](https://umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961#7/40.019/-6.976) or explore the embedded below.
 

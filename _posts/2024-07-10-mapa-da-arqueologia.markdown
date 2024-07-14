@@ -11,9 +11,9 @@ author: Nelson Gonçalves (Alfobre.com)
 
 This is an online map of portuguese archaeology landscape featuring companies, schools, research units, etc. It's a work in progress and a collective project, meaning that more than one person is currently working on it and it will be updated as frequently as possible.
 
-
 The map content is available in portuguese only and you can check it [here](https://umap.openstreetmap.fr/en/map/mapa-da-arqueologia-em-portugal_1092410) or explore the embedded below.
 
+For any questions and/or comments, please use projeto.alfobre@gmail.com
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/mapa-da-arqueologia-em-portugal_1092410?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=false&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=false&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true&measureControl=false&fullscreenControl=null&editinosmControl=false"></iframe>
 
