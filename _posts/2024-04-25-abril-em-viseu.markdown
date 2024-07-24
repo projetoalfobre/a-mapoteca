@@ -14,5 +14,6 @@ published: true
 
 The map content is available in portuguese only and you can visit the map [here](https://abrilemviseu.pt/).
 
+## Map License
+Please check the project website for credits and license.
 
-{% include cc-by.html %}

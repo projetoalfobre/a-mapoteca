@@ -9,11 +9,11 @@ tags: [Webmap, WIP, Economy, Environment, Political, Portugal, Culture, Arts]
 author: Nelson Gonçalves (Alfobre.com) 
 ---
 
-**Alternativas - outros caminhos para a vida** (portuguese for Alternatives - other ways of living) is a webmap featuring projects, businesses, collectives and cooperatives that show that it's possible to innovate, to disrupt, to make a living, without being profit-driven. 
+**Alternativas - outros caminhos para a vida** (portuguese for Alternatives - other ways of living) is a webmap about alternative living options. The map features projects (businesses, collectives, cooperatives, etc.) that show that it's possible to innovate, to disrupt, to make a living, without being profit-driven. This is a work in progress, meaning that the map will be updated as frequently as possible.
 
-It's a work in progress and a collective project, meaning that more than one person is currently working on it. It will be updated as frequently as possible and the dataset will be shared at [A-GeoCat](https://a-geocat.alfobre.com/).
+In the future, the dataset will be shared at [A-GeoCat](https://a-geocat.alfobre.com/).
 
-For any questions and/or comments, please use projeto.alfobre@gmail.com
+All suggestions,fixes and additions are welcome. For any questions and/or comments, please use projeto.alfobre@gmail.com
 
 The map content is available in portuguese only and you can check it [here](https://umap.openstreetmap.fr/en/map/alternativas-outros-caminhos_1021352#7/39.623/-6.614) or explore the embedded below.
 

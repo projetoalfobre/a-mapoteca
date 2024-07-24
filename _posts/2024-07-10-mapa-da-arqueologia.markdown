@@ -9,8 +9,12 @@ tags: [Webmap, WIP, Archaeology, Portugal, Culture]
 author: Nelson Gonçalves (Alfobre.com) 
 ---
 
-This is an online map of portuguese archaeology landscape featuring companies, schools, research units, etc. It's a work in progress and a collective project, meaning that more than one person is currently working on it and it will be updated as frequently as possible.
+**Mapa da Arqueologia em Portugal** (portuguese for Map of Archeology in Portugal) is a webmap about the portuguese archaeology landscape. The map features companies, schools, research units, etc. This is a work in progress, meaning that the map will be updated as frequently as possible.
 
+In the future, the dataset will be shared at [A-GeoCat](https://a-geocat.alfobre.com/).
+
+All suggestions,fixes and additions are welcome. For any questions and/or comments, please use projeto.alfobre@gmail.com
+ 
 The map content is available in portuguese only and you can check it [here](https://umap.openstreetmap.fr/en/map/mapa-da-arqueologia-em-portugal_1092410) or explore the embedded below.
 
 For any questions and/or comments, please use projeto.alfobre@gmail.com
