@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Map of Archaeology in Portugal
+title: Archaeology in Portugal
 map-title: Mapa da Arqueologia em Portugal
 date: 2024-07-09 13:32:20 +0300
 description: This is an online map featuring portuguese archaeology organizations. # Add post description (optional)
