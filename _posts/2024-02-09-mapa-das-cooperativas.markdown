@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portuguese cooperatives map
+title: Portuguese cooperatives
 map-title: Mapa das Cooperativas Portuguesas
 date: 2024-02-09 13:32:20 +0300
 description: This is an online map featuring portuguese cooperatives. # Add post description (optional)
