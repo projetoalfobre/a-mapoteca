@@ -4,7 +4,7 @@ title: Flea Markets (and antiques)
 map-title: Mapa das Velharias (e antiguidades)
 date: 2024-09-05 13:32:20 +0300
 description: This is an online map featuring antique fairs and flea markets in Portugal. # Add post description (optional)
-img: cooperatives.jpg # Add image post (optional)
+img: antiques.jpg # Add image post (optional)
 tags: [Webmap, WIP, Economy, Portugal, Culture, Arts]
 author: Nelson Gonçalves (Alfobre.com) 
 published: true
