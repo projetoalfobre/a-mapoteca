@@ -10,9 +10,15 @@ author: Nelson Gonçalves
 published: true
 ---
 
-**Abril em Viseu** (portuguese for April in Viseu) is an online map about events and people from Viseu that are somehow related to the [Carnation Revolution](https://en.wikipedia.org/wiki/Carnation_Revolution) in Portugal. It's a work in progress and a collective project. This means that it will be updated as frequently as possible and that more than one person is currently working on it.
+**Abril em Viseu** (portuguese for **April in Viseu**) is an online map about events and people from Viseu that are somehow related to the [Carnation Revolution](https://en.wikipedia.org/wiki/Carnation_Revolution) in Portugal. 
 
-The map content is available in portuguese only and you can visit the map [here](https://abrilemviseu.pt/).
+You can visit the map [here](https://abrilemviseu.pt/).
+
+This is a collective project and a work in progress. This means that it will be updated as frequently as possible and that more than one person is currently working on it. 
+
+Future plans include expanding additional information and sharing the dataset at [A-GeoCat](https://a-geocat.alfobre.com/).
+
+All suggestions, fixes and additions are welcome. For any questions and/or comments, please use projeto.alfobre@gmail.com or abrilemviseu@gmail.com  
 
 ## Map License
 Please check the project website for credits and license.
