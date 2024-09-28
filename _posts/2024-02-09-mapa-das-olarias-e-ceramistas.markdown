@@ -9,7 +9,7 @@ tags: [Webmap, WIP, Pottery, Ceramics, Portugal, Culture, Arts]
 author: Nelson Gonçalves
 ---
 
-**Ceramistas e Oleiros de Portugal** (portuguese for Portuguese ceramists and potters) is a webmap featuring portuguese ceramists and potters.
+**Ceramistas e Oleiros de Portugal** (portuguese for **Portuguese ceramists and Potters**) is a webmap featuring portuguese ceramists and potters.
 
 This project is a work in progress, meaning that the map will be updated as frequently as possible. Meanwhile, you can visit the map [here](https://umap.openstreetmap.fr/en/map/ceramistas-e-oleiros-de-portugal_1021961#7/40.019/-6.976). 
 
