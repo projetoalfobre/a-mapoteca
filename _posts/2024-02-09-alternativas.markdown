@@ -15,7 +15,7 @@ This project is a work in progress, meaning that the map will be updated as freq
 
 Future plans include expanding additional information and sharing the dataset at [A-GeoCat](https://a-geocat.alfobre.com/).
 
-All suggestions,fixes and additions are welcome. For any questions and/or comments, please use projeto.alfobre@gmail.com 
+All suggestions, fixes and additions are welcome. For any questions and/or comments, please use projeto.alfobre@gmail.com 
 
 Photo on top was downloaded from [Pixabay](https://pixabay.com/)
 
