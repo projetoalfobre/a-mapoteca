@@ -1,7 +1,4 @@
-This is a fork of [Adam Blog](https://artemsheludko.github.io/adam-blog/)
+# A-Mapoteca
 
-
-## License
-
-GNU General Public License v3.0
+https://a-mapoteca.alfobre.com/
 
