@@ -12,7 +12,7 @@ published: true
 
 **Mapa das Velharias (e antiguidades)** (portuguese for **Old stuff (and antiques) Map**) is a webmap featuring antique fairs and flea markets in Portugal. Most locations are collected from online sources (e.g. blog posts, news articles, social media) but some were verified on site. 
 
-This project is a work in progress, meaning that the map will be updated as frequently as possible. Meanwhile, you can visit the map [here](https://umap.openstreetmap.fr/en/map/mapa-das-velharias-e-antiguidades_1110497#7/39.893/-6.460).
+This project is a work in progress, meaning that the map will be updated as frequently as possible. Meanwhile, you can visit the map [here](https://projetoalfobre.github.io/mapa-das-velharias/).
 
 Future plans include expanding additional information and sharing the dataset at [A-GeoCat](https://a-geocat.alfobre.com/).
 
